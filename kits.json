@@ -1,0 +1,1029 @@
+[
+  {
+    "Name": "xp",
+    "Items": [
+      {
+        "Xp": 1000
+      }
+    ],
+    "Cooldown": 2200,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Hawk",
+    "Items": [
+      {
+        "FireMode": "SEMI",
+        "Ammo": 8,
+        "Barrel": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 153,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 143,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 111,
+          "Durability": 100
+        },
+        "Id": 109,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 111,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 394,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 9,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 110,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1333,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1334,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 1388,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 2400,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Linked",
+    "Items": [
+      {
+        "FireMode": "AUTO",
+        "Ammo": 100,
+        "Barrel": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 146,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 8,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 151,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 17,
+          "Durability": 100
+        },
+        "Id": 1362,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 100,
+        "Id": 17,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 17566,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 81,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 6001,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Bed",
+    "Items": [
+      {
+        "Id": 288,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 3000,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Player",
+    "Items": [
+      {
+        "FireMode": "AUTO",
+        "Ammo": 20,
+        "Barrel": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 100,
+          "Durability": 100
+        },
+        "Id": 99,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 121,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 80,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 80,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 80,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 80,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 13,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 20,
+        "Id": 100,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 20,
+        "Id": 100,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 154,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 2,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 2600,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "Roll",
+    "Items": [
+      {
+        "Id": 36285,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 2400,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Start",
+    "Items": [
+      {
+        "FireMode": "SEMI",
+        "Ammo": 20,
+        "Barrel": {
+          "AttachmentId": 36147,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 36459,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 36452,
+          "Durability": 100
+        },
+        "Id": 36568,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36382,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 20,
+        "Id": 36452,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 20,
+        "Id": 36452,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 20,
+        "Id": 36452,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36439,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36434,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36207,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36438,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36437,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36425,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36432,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36414,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36171,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36203,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36170,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36186,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 2400,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": true
+  },
+  {
+    "Name": "Link",
+    "Items": [
+      {
+        "FireMode": "SEMI",
+        "Ammo": 8,
+        "Barrel": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 36456,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 36128,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 36440,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 36130,
+          "Durability": 100
+        },
+        "Id": 36124,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36382,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36439,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36434,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36207,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36438,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36437,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36425,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36432,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36414,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36171,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36203,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36170,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36186,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 3000,
+    "Cost": 0.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Merlin",
+    "Items": [
+      {
+        "FireMode": "SEMI",
+        "Ammo": 0,
+        "Barrel": {
+          "AttachmentId": 36143,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 36458,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 36442,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Id": 36335,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36382,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36439,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36434,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 8,
+        "Id": 36130,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36207,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36438,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36437,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36425,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36432,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36414,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36171,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36203,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36170,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36186,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 4500,
+    "Cost": 45000.0,
+    "ResetCooldownWhenDie": false
+  },
+  {
+    "Name": "Niku",
+    "Items": [
+      {
+        "FireMode": "AUTO",
+        "Ammo": 30,
+        "Barrel": {
+          "AttachmentId": 0,
+          "Durability": 100
+        },
+        "Sight": {
+          "AttachmentId": 36514,
+          "Durability": 100
+        },
+        "Grip": {
+          "AttachmentId": 36552,
+          "Durability": 100
+        },
+        "Tactical": {
+          "AttachmentId": 36441,
+          "Durability": 100
+        },
+        "Magazine": {
+          "AttachmentId": 36152,
+          "Durability": 100
+        },
+        "Id": 36465,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36382,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 395,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36439,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36434,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 36152,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 36152,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36207,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36438,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36437,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36425,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36432,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "FireMode": "SAFETY",
+        "Ammo": 0,
+        "Id": 36414,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 36152,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Ammo": 30,
+        "Id": 36152,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36171,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36203,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36170,
+        "Durability": 100,
+        "Amount": 1
+      },
+      {
+        "Id": 36186,
+        "Durability": 100,
+        "Amount": 1
+      }
+    ],
+    "Cooldown": 4500,
+    "Cost": 50000.0,
+    "ResetCooldownWhenDie": false
+  }
+]
