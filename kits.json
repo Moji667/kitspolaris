@@ -1769,7 +1769,7 @@
         "Amount": 1
       }
     ],
-    "Cooldown": 9000,
+    "Cooldown": 9200,
     "Cost": 0.0,
     "ResetCooldownWhenDie": false
   }
